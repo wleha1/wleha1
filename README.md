@@ -20,7 +20,7 @@ const about = {
   pronouns: "he" | "him",
   code: [Javascript, Node, Git, HTML, CSS, Jest, Bash],
   tools: [Photoshop, Cinema4D, Blender, Figma],
-  learn: [React, Java, MySQL],
+  learn: [React, MySQL],
   information: "I have been working as a Graphic Designer for over 7 years :)"
   designExperience: {
                       photoshop: "7 years", // Experience using Photoshop for 7 years
