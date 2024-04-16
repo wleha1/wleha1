@@ -7,7 +7,7 @@
 <a href="https://t.me/wlehaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  />
 </a>
-<a href="https://t.me/tehnomaniak07" target="_blank">
+<a href="" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/welcome-to%20my%20profile-blue" height="20">
 </a>
 
@@ -21,14 +21,14 @@ const about = {
   code: [Javascript, Node, Git, HTML, CSS, Jest, Bash],
   tools: [Photoshop, Cinema4D, Blender, Figma],
   learn: [React, Java, MySQL],
-  information: "I have been working as a Graphic Designer for over 7 years"
+  information: "I have been working as a Graphic Designer for over 7 years :)"
   designExperience: {
                       photoshop: "7 years", // Experience using Photoshop for 7 years
                       cinema4d: "5 years", // Experience using Cinema4D for 5 years
                       blender: "1 year", // Experience using Blender for 1 year
                       figma: "currently working" // Currently working with Figma
                     },
-  challenge: "Planning to learn React, Java, and MySQL to enhance my skills in web development and design."
+  challenge: "Planning to learn React and MySQL to enhance my skills in web development."
 }
 ```
 
