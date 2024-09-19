@@ -14,20 +14,47 @@
 <h2> A little more about me... </h2>
 
 ```javascript
-const about = {
-  info: "he" | "him",
-  code: [Javascript, Node, Git, HTML, CSS, Jest, Bash],
-  tools: [Photoshop, Cinema4D, Blender, Figma],
-  learn: [React, MySQL],
-  interestingFacts: "I have been working as a Graphic Designer for over 7 years :)"
-  designExperience: {
-                      photoshop: "7 years", // Experience using Photoshop for 7 years
-                      cinema4d: "5 years", // Experience using Cinema4D for 5 years
-                      blender: "1 year", // Experience using Blender for 1 year
-                      figma: "currently working" // Currently working with Figma
-                    },
-  challenge: "Planning to learn React and MySQL to enhance my skills in web development."
-}
+const userProfile = {
+    name: "Егор",
+    age: 18,
+    profession: "Frontend Developer",
+    goal: "Развиваться в области QA",
+
+    skills: {
+        programmingLanguages: ["JavaScript", "Python"],
+        frameworks: ["Node.js", "React"],
+        tools: ["Git", "HTML", "CSS"],
+        databases: ["SQL"],
+        testing: {
+            basics: "Основы тестирования и его видов",
+            tools: ["Jira"]
+        }
+    },
+
+    experience: [
+        "Разработка веб-приложений с использованием современных технологий.",
+        "Создание телеграм-ботов для автоматизации процессов."
+    ],
+
+    futureGoals: [
+        "Стать QA Engineer",
+        "Прогрессировать в QA Automation Engineer"
+    ],
+
+    interestingFacts: [
+        "Я разносторонний человек с разнообразным опытом.",
+        "Люблю изучать новые технологии и делиться знаниями с другими.",
+        "Увлекаюсь путешествиями и фотографией."
+    ],
+
+    contact: {
+        linkedIn: "https://www.linkedin.com/in/ваш-профиль",
+        twitter: "https://twitter.com/ваш-профиль"
+    }
+};
+
+console.log(userProfile);
+
 ```
 
 
