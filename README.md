@@ -1,5 +1,3 @@
-## <div align="center">QA Engineer | Frontend Developer</div>
-
 ## Frontend 
 
 ```javascript
