@@ -1,4 +1,4 @@
-## Frontend 
+## <div align="center">Frontend</div>
 
 ```javascript
 const frontendSkills = {
@@ -24,7 +24,7 @@ const frontendSkills = {
 frontendSkills.displaySkills();
 ```
 
-## QA Engineer
+## <div align="center">QA Engineer</div>
 
 ```python
 import pytest
