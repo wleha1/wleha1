@@ -35,4 +35,4 @@ const about = {
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?wleha1=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleha1&layout=compact)
