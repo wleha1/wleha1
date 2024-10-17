@@ -42,8 +42,7 @@ skills = {
     ],
     "Языки": [
         "Python",
-        "JavaScript",
-        "MySQL"
+        "JavaScript"
     ]
 }
 
