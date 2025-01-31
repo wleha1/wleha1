@@ -1,29 +1,3 @@
-## <div align="center">Frontend</div>
-
-```javascript
-const frontendSkills = {
-    name: "Егор",
-    age: 18,
-    location: "Санкт-Петербург",
-    skills: {
-        languages: ["JavaScript", "HTML", "CSS", "Sass"],
-        frameworks: ["React", "Node.js"],
-        tools: ["Vite", "Git", ]
-    },
-    displaySkills: function() {
-        console.log("Мои навыки во фронтенд разработке:");
-        for (const category in this.skills) {
-            console.log(`\n${category.charAt(0).toUpperCase() + category.slice(1)}:`);
-            this.skills[category].forEach(skill => {
-                console.log(`- ${skill}`);
-            });
-        }
-    }
-};
-
-frontendSkills.displaySkills();
-```
-
 ## <div align="center">QA Engineer</div>
 
 ```python
