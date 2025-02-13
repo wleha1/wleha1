@@ -12,14 +12,13 @@ skills = {
     ],
     "Инструменты": [
         "Postman",
-        "Jira",
+        "Яндекс Трекер",
         "DevTools",
         "Kibana",
         "Swagger",
         "Grafana",
         "Kafka",
         "Git",
-        "Docker",
         "Selenium"
     ],
     "Языки": [
@@ -51,7 +50,6 @@ def test_skills_exist():
             "Grafana", 
             "Kafka",
             "Git",
-            "Docker",
             "Selenium"
         ],
         "Языки": [
@@ -71,7 +69,7 @@ def test_skills_exist():
 def test_skills_count():
     """Проверяем количество навыков в каждой категории"""
     assert len(skills["Тестирование"]) == 5, "Неверное количество навыков в тестировании"
-    assert len(skills["Инструменты"]) == 10, "Неверное количество инструментов"
+    assert len(skills["Инструменты"]) == 9, "Неверное количество инструментов"
     assert len(skills["Языки"]) == 2, "Неверное количество языков"
     assert len(skills["Дополнительно"]) == 2, "Неверное количество дополнительных знаний"
 ```
