@@ -77,6 +77,6 @@ def test_skills_count():
 ## Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wleha1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wleha1&theme=dark&hide_border=true" alt="Streak Stats" width="20%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wleha1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wleha1&theme=dark&hide_border=true" alt="Streak Stats" width="35%" />
 </p>
