@@ -73,3 +73,9 @@ def test_skills_count():
     assert len(skills["Языки"]) == 2, "Неверное количество языков"
     assert len(skills["Дополнительно"]) == 2, "Неверное количество дополнительных знаний"
 ```
+
+## Статистика
+
+![wleha1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wleha1&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![wleha1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wleha1&theme=dark&hide_border=true)
