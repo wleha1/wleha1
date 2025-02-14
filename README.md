@@ -74,7 +74,7 @@ def test_skills_count():
     assert len(skills["Дополнительно"]) == 2, "Неверное количество дополнительных знаний"
 ```
 
-## Статистика
+## <div align="center">Статистика</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wleha1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="35%" />
